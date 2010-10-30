@@ -1,0 +1,33 @@
+This is the code & presentation from the What's New in FDT4 Meeting from the Hawaii Flash User Group Meeting for October 29,2010 with Michael Plank. 
+
+To learn more about the meeting, and to find additional resources, please check the Hawaii Flash User group site calendar "What;s New in FDT4":
+http://hawaiiflash.groups.adobe.com/index.cfm?event=post.display&postid=31230
+
+Meeting went over the new features in FDT4
+Making Things Easier
+Completely new SDK management and project setup makes it simple to switch Flex SDKs, or change the project type easily.
+
+Profiler
+New Profiler will help you find memory leaks more quickly and optimize the performance of your Flash/Flex projects.
+
+Project Templates
+Choose from a list of available project templates in the “New Project Wizard” or easily create your own using a simple XML format.
+
+Launcher Chain
+Chain multiple launch configurations in any desired order to setup complex build processes fast and easy and adapt FDT to your project team work-flow.
+
+Additional Flex Support
+Flex support was improved dramatically, it includes FXG, Flex 4 States and the new MXML 2009 language tags now. Also added Flex 4 support for the Debugger, Organize Imports, Quickfixes, Formatter and Toggle Comment in MXML.
+
+Dependency Visualizer
+View the dependencies between Classes and Interfaces or between packages visually to detect design or dependency problems at a glance.
+
+Font Library Creator
+Create font library SWF, Actionscript or SWC files with just a few clicks by using the new Font Library Editor.
+
+Advanced Formatter
+More options in the AS3/MXML Formatter settings to configure your preferred code style or follow your team code guidelines.
+
+Faster Compiler
+Full and incremental build times have decreased tremendously while memory consumption was dramatically reduced, this is especially noticeable in bigger projects with multiple modules.
+
